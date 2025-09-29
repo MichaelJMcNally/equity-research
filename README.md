@@ -1,3 +1,32 @@
+# Equity Research Platform
+
+This is a comprehensive equity research platform built with Next.js, featuring real-time stock data, portfolio management, and financial analysis tools.
+
+## Features
+
+- 📈 Real-time stock quotes and market data
+- 🔍 Advanced stock screener with multiple filters
+- 📊 Portfolio tracking and performance analytics
+- 📋 Interactive charts and visualizations
+- 🔎 Stock search and analysis tools
+
+## Available Stocks
+
+The platform includes data for popular stocks:
+- **AAPL** - Apple Inc.
+- **TSLA** - Tesla, Inc.
+- **MSFT** - Microsoft Corporation
+- **GOOGL** - Alphabet Inc.
+- **AMZN** - Amazon.com, Inc.
+- **NVDA** - NVIDIA Corporation
+
+## Tech Stack
+
+- **Frontend**: Next.js 15, React, TypeScript, Tailwind CSS
+- **Data**: Yahoo Finance API with mock data fallback
+- **Deployment**: Vercel
+- **Charts**: Recharts for financial visualizations
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
