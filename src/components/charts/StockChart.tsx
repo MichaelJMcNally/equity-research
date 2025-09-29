@@ -8,7 +8,7 @@ interface StockChartProps {
   }>;
 }
 
-export default function StockChart({ symbol, data = [] }: StockChartProps) {
+export default function StockChart({ symbol }: StockChartProps) {
   return (
     <div className="bg-white rounded-lg shadow-md p-6">
       <h3 className="text-lg font-semibold mb-4">{symbol} Price Chart</h3>
